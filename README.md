@@ -1,6 +1,9 @@
 # Realtime Chat App with ChatEngine.io, React, and Node.js
 
-![Chat App Screenshot](screenshot.png)
+<img width="778" alt="Screen Shot 2023-09-21 at 5 04 15 PM" src="https://github.com/Tylerlangsam/Realtime_Chat_React_Node/assets/90009414/82e95fc6-f283-45e7-85cb-e834f4768848">
+<img width="1440" alt="Screen Shot 2023-09-21 at 5 05 06 PM" src="https://github.com/Tylerlangsam/Realtime_Chat_React_Node/assets/90009414/22f462b9-b068-4c2c-b068-ee0dc4efc014">
+
+
 
 This is a realtime chat application built using ChatEngine.io, React, and Node.js. It allows users to create accounts, join chat rooms, and exchange messages in real-time.
 
